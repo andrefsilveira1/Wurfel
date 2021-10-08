@@ -9,3 +9,7 @@ bastante.
 
 ## Curiosidade:
 o nome "Wurfel" significa "cubo" em alemão. Coloquei esse nome pois enquanto eu estava criando o projeto o nome "Wurfel" apareceu em um aplicativo de idiomas.
+
+
+# Atenção:
+Esse projeto não é 100% autoral.
